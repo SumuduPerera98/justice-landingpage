@@ -5,6 +5,7 @@ import aboutImage from '../images/about.png'
 const About = () => {
   return (
     <div id='about'>
+        <h1>ABOUT US</h1>
         <div className='about-image'>
             <img src={aboutImage} alt=''/>
         </div>
