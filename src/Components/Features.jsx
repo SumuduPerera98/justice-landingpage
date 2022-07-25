@@ -14,7 +14,7 @@ const Features = () => {
             <Featurebox image={f1} title="Weight Lifting"/>
             <Featurebox image={f2} title="Specific Muscle"/>
             <Featurebox image={f3} title="Flex Your Muscle"/>
-            <Featurebox image={f4} title=""/>
+            <Featurebox image={f4} title="Cardio Exercise"/>
         </div>
     </div>
   )
