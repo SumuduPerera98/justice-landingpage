@@ -4,6 +4,7 @@ import Header from "./Components/Header";
 import Features from "./Components/Features";
 import Offer from "./Components/Offer";
 import About from "./Components/About";
+import Contact  from "./Components/Contact";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Features/>
       <Offer/>
       <About/>
+      <Contact/>
     </div>
   );
 }
