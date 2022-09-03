@@ -10,7 +10,7 @@ const About = () => {
             <img src={aboutImage} alt=''/>
         </div>
         <div className='about-text'>
-            <h1>LEARN MORE ABOUT US</h1>
+            <h1 className='about-heading'>LEARN MORE ABOUT US</h1>
             <p color='green'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, voluptatum animi. Distinctio est alias possimus! Excepturi officia in perspiciatis corrupti repudiandae impedit consequuntur et blanditiis obcaecati rerum, ipsum dolor! Perspiciatis.</p>
             <button>READ MORE</button>
         </div>
